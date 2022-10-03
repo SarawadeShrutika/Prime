@@ -4,6 +4,7 @@ body{
   padding: 2rem;
   width:300px;
   margin: auto;
+  height: auto;
 }
 
 #txt_output{
