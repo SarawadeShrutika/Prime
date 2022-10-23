@@ -1,16 +1,18 @@
-body{
-  text-align: center;
-  border: 1px solid black;
-  padding: 2rem;
-  width:300px;
-  margin: auto;
-  height: auto;
-}
 
 #txt_output{
-    width:200px;
-    height:50px;
+  width:200px;
+  height:50px;
 }
 #result{
-    margin: 1rem;
+  margin: 1rem;
+}
+#prime_body{
+background-color: lightblue;
+text-align: center;
+border: 1px solid black;
+padding: 2rem;
+width:300px;
+margin: auto;
+height: 350px;
+margin-top: 50px;
 }
